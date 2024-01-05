@@ -1,10 +1,10 @@
 # NotesAppUsingMongo
-* Technology Used:
+## Technology Used:
 * Framework: Express
 * Language: Node.js
 * Database: MongoDB
 
-API End Points:
+## API End Points:
 1. GET /api/notes: get a list of all notes for the authenticated user.
 Curl For API:
 curl --location --request GET 'http://localhost:2100/api/notes' \

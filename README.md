@@ -50,5 +50,6 @@ curl --location --request DELETE 'http://localhost:2100/api/notes/delete/6' \
 ## Running Steps 
 * Install NVM
 * Use nvm version 15. Command: nvm use 15
+* Initialise project. COmmand: npm init -y
 * Install npm packages. Command: npm i
 * Run app.js: Command: node app.js
